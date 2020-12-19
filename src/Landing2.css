@@ -1,0 +1,107 @@
+.Annie-Parent {
+    margin-top: -50px;
+    display: flex;
+    background: #fff;
+    /* background: -webkit-radial-gradient(#fff, #eaeaea); 
+    background: -o-radial-gradient(#fff, #eaeaea); 
+    background: -moz-radial-gradient(#fff, #eaeaea);
+    background: radial-gradient(#fff, #eaeaea);  */
+  }
+
+  .hello-word {
+    width: 100%;
+    
+    background: #fff;
+  }
+  
+  g #_Annie_  {
+    transform: translateY(10px);
+  }
+  
+  g:nth-child(3)  path {
+    animation-name: wiggleWiggle;
+    animation-duration: 1.5s;
+    animation-iteration-count: infinite;
+  }
+  
+  @keyframes wiggleWiggle {
+    20%,
+    100% {
+      transform: translate(4px, 5px);
+     
+    }
+  
+    0% {
+      transform: translate(0, 0px);
+     
+      opacity:0.5;
+    }
+    10% {
+      transform: translate(0, 5px);
+    }
+  }
+ 
+  #I1 {
+    animation-name: wiggleWiggle;
+    animation-delay: 0s;
+    
+  }
+  #S1 {
+    animation-delay: 0.1s;
+  }
+
+  #H1 {
+    animation-delay: 0.15s;
+  }
+
+  #A1 {
+    animation-delay: 0.2s;
+  }
+
+  #P11 {
+    animation-delay: 0.25s;
+  }
+
+  #P12 {
+    animation-delay: 0.3s;
+  }
+
+  .red-dot {
+    stroke-width: 44px;
+    stroke-linecap: round;
+    animation: red-dot-grow  8s ease-out;
+    animation-iteration-count: infinite;
+  }
+
+  @keyframes red-dot-grow {
+    0% {
+      stroke-width: 0px;
+      opacity:0.5;
+    
+    }
+    15% {
+      stroke-width: 0px;
+      opacity:0.01;
+      
+    }
+    20% {
+      stroke-width: 80px;
+    }
+    100% {
+      stroke-width: 44px;
+    }
+  }
+
+  @keyframes pulse {
+    0% {
+      opacity:0.5;
+      transform:scale(1);
+    }
+    
+    100% {
+      opacity:0;
+      transform:scale(2);
+    }
+  }
+
+  

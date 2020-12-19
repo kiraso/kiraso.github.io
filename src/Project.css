@@ -1,0 +1,58 @@
+#pink_path {
+  stroke-dasharray: 100;
+  animation: dash 5s linear infinite;
+}
+
+#purple_path {
+  stroke-dasharray: 30;
+  animation: dash 10s linear infinite;
+}
+
+#pink_rect{
+   animation: dash 10s linear infinite;
+}
+
+@keyframes dash {
+  to {
+    stroke-dashoffset: 1000;
+  }
+}
+
+#pink_rect{
+  animation: rectchange 6s infinite;
+}
+
+#Code1-2{
+  cursor: pointer;
+}
+
+#Code1-2 rect:hover{
+  fill: rgb(240, 24, 89);
+  
+}
+
+
+#Code1{
+  cursor: pointer;
+}
+
+#Code1 rect:hover{
+  fill: rgb(214, 91, 177);
+  
+}
+
+#Code1-3{
+  cursor: pointer;
+}
+
+#Code1-3 rect:hover{
+  fill: rgb(162, 113, 196);
+  
+}
+
+@keyframes rectchange {
+  from {fill: rgb(240, 24, 89);}
+  to {fill: rgb(68, 34, 131);}
+}
+
+

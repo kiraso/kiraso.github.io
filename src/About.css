@@ -1,0 +1,20 @@
+.line1{
+    stroke-dasharray: 1000;
+    stroke-dashoffset: 1000;
+    animation: dash 5s linear alternate infinite;
+}
+
+.line2{
+    stroke-dasharray: 1000;
+    stroke-dashoffset: 1000;
+    animation: dash 3s linear alternate infinite;
+}
+
+@keyframes dash {
+    from {
+      stroke-dashoffset: 900;
+    }
+    to {
+      stroke-dashoffset: 400;
+    }
+  }
