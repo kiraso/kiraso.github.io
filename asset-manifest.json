@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.8cd51410.chunk.css",
-    "main.js": "/static/js/main.f0a22ece.chunk.js",
-    "main.js.map": "/static/js/main.f0a22ece.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.0859410a.js",
-    "runtime-main.js.map": "/static/js/runtime-main.0859410a.js.map",
-    "static/js/2.afc5383f.chunk.js": "/static/js/2.afc5383f.chunk.js",
-    "static/js/2.afc5383f.chunk.js.map": "/static/js/2.afc5383f.chunk.js.map",
-    "static/js/3.2204d67a.chunk.js": "/static/js/3.2204d67a.chunk.js",
-    "static/js/3.2204d67a.chunk.js.map": "/static/js/3.2204d67a.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.8cd51410.chunk.css.map": "/static/css/main.8cd51410.chunk.css.map",
-    "static/js/2.afc5383f.chunk.js.LICENSE.txt": "/static/js/2.afc5383f.chunk.js.LICENSE.txt",
-    "static/media/backendpic.c2fffed3.PNG": "/static/media/backendpic.c2fffed3.PNG",
-    "static/media/banner.a3328187.png": "/static/media/banner.a3328187.png"
+    "main.css": "/portfolio/static/css/main.8cd51410.chunk.css",
+    "main.js": "/portfolio/static/js/main.f0a22ece.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.f0a22ece.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.1b432b75.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.1b432b75.js.map",
+    "static/js/2.afc5383f.chunk.js": "/portfolio/static/js/2.afc5383f.chunk.js",
+    "static/js/2.afc5383f.chunk.js.map": "/portfolio/static/js/2.afc5383f.chunk.js.map",
+    "static/js/3.2204d67a.chunk.js": "/portfolio/static/js/3.2204d67a.chunk.js",
+    "static/js/3.2204d67a.chunk.js.map": "/portfolio/static/js/3.2204d67a.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "static/css/main.8cd51410.chunk.css.map": "/portfolio/static/css/main.8cd51410.chunk.css.map",
+    "static/js/2.afc5383f.chunk.js.LICENSE.txt": "/portfolio/static/js/2.afc5383f.chunk.js.LICENSE.txt",
+    "static/media/backendpic.c2fffed3.PNG": "/portfolio/static/media/backendpic.c2fffed3.PNG",
+    "static/media/banner.a3328187.png": "/portfolio/static/media/banner.a3328187.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.0859410a.js",
+    "static/js/runtime-main.1b432b75.js",
     "static/js/2.afc5383f.chunk.js",
     "static/css/main.8cd51410.chunk.css",
     "static/js/main.f0a22ece.chunk.js"
