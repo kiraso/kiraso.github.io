@@ -1,6 +1,6 @@
 import React from 'react'
 import './Skill.css'
-import pic from './backendpic.PNG'
+
 function Skill() {
     return (
         <div>

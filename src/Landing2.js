@@ -1,5 +1,4 @@
 import React from 'react'
-import pic from './banner.png'
 import './Landing2.css'
 function Landing() {
     return (
